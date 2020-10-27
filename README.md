@@ -68,3 +68,7 @@ The data-set is extracted from [the YouTube Faces Dataset](https://www.cs.tau.ac
   * Facial keypoints of the second face:
 
     ![Facial keypoints for the second face](./images/test6.PNG)
+
+
+### Note:
+This project is one of three projects accomplished in the Udacity computer vision Nanodegree program.
